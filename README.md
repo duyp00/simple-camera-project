@@ -1,1 +1,1 @@
-distinguish between face and no face (currentl best for white background only)
+distinguish between face and no face (currently best for white background only)
